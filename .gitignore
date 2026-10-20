@@ -1,0 +1,29 @@
+# ---------- Keil / EIDE 编译产物 ----------
+keil5/Objects/
+keil5/Listings/
+keil5/build/
+*.obj
+*.lst
+*.m51
+*.lnp
+*.build_log.htm
+*.uvgui.*
+*.uvopt.bak
+*.dep
+*.crf
+*.o
+*.d
+
+# ---------- Proteus ----------
+*.pdsprj.*.workspace
+*.workspace
+*.pdsbak
+*.pdsprj.bak
+
+# ---------- 系统与编辑器 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*~
